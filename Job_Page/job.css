@@ -93,3 +93,24 @@ span{
     padding: 20px;
     word-spacing: 10px;
  }
+
+ .bt{
+    width: 60%;
+    padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 120px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease, transform 0.1s ease;
+    box-shadow: 0 0 20px black;
+ }
+
+ .bt:hover{
+    background-color: rgb(2, 31, 45);
+    color: red;
+ }
