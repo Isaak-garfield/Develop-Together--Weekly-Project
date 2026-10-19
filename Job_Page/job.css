@@ -114,3 +114,106 @@ span{
     background-color: rgb(2, 31, 45);
     color: red;
  }
+
+ @media screen and (min-width:640px) and (max-width:1024px) {
+
+   .box{
+    grid-column: auto/span 6;
+    padding: 5px;
+    font-size: 20px;
+}
+
+img{
+    max-width: 250px;
+    max-height: 250px;
+    margin-top: 20px;
+}
+
+.navbar{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content:space-between;
+    align-items: center;
+    }
+
+    .nav-links{
+    gap: 25px;
+    margin: 15px;
+    padding: 0;
+    }
+
+ .logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ff5722;
+    letter-spacing: 0.5px;
+    }
+
+     a{
+    font-size: 18px;
+ }
+
+   .select h1{
+    font-size: 30px;
+    }
+
+ .select p{
+    font-size: 25px; 
+    }
+
+ footer div{
+    font-size: 20px;
+    padding: 10px;
+    word-spacing: 2px;
+    }
+}
+
+@media screen and (max-width:640px){
+   .box{
+    grid-column: auto/span 12;
+    padding: 2px;
+    font-size: 20px;
+}
+
+img{
+    max-width: 250px;
+    max-height: 250px;
+    margin-top: 15px;
+}
+
+.navbar{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content:space-between;
+    align-items: center;
+    }
+
+    .nav-links{
+    gap: 10px;
+    margin: 10px;
+    padding: 0;
+    }
+
+ .logo{
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    }
+
+   .select h1{
+    font-size: 20px;
+    }
+
+ .select p{
+    font-size: 20px; 
+    }
+
+ footer div{
+    font-size: 20px;
+    padding: 10px;
+    word-spacing: 2px;
+    }
+
+    a{
+    font-size: 18px;
+ }
+}
