@@ -107,7 +107,6 @@
   /* ==========================================
      PROFILE CARDS
      ========================================== */
-
   .profile-card {
     background: #2e323d;
     border: 1px solid #334155;
@@ -171,13 +170,6 @@
     border-bottom: 1px solid #334155;
     padding-bottom: 0.4rem;
   }
-  #story {
-    background-color: lightblue;
-    color: black;
-    padding: 15px;
-    margin-top: 15px;
-    border-radius: 10px;
-}
   
   /* ==========================================
      SKILLS & PROGRESS BARS
@@ -265,7 +257,7 @@
     }
   
     .profiles-container {
-      grid-template-columns: 1fr; 
+      grid-template-columns: 1fr; /* ဖုန်းမှာ profile တစ်ခုချင်းစီ သီးသန့် အပြည့်ပြပေးမည် */
       padding: 1rem;
     }
   
