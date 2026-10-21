@@ -74,3 +74,53 @@ img{
     padding: 20px;
     word-spacing: 10px;
  }
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-auto-rows: minmax(20px,auto);
+    grid-gap: 40px;
+    margin: 40px;
+}
+
+.box{
+    grid-column: auto/span 6;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 30px;
+    font-size: 25px;
+    box-shadow: 0 0 20px black;
+}
+
+.top{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin:10px;
+   border-bottom: 2px dashed black;
+}
+
+span{
+   font-weight: bold;
+}
+ 
+.reject{
+   border: 8px red solid;
+   color: red;
+   font-weight: bold;
+   padding: 4px;
+   transform: rotate(15deg);
+   font-size: 50px;
+}
+
+.mid{
+   margin: 10px;
+   border-bottom: 2px solid black;
+}
+
+.quote{
+   background-color: rgb(132, 159, 186);
+   padding: 20px;
+   border-radius: 30px;
+}
