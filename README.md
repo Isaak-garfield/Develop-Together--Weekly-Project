@@ -1,4 +1,5 @@
 # Develop Together--Weekly-Project
+
 About Our Project
 This is a group project created by group1 to practice HTML and CSS.
 
@@ -32,6 +33,3 @@ screenshots of our finished website will be added here.
 Individlual Contributions
 
 Each team member will explain their own contibution and code during the presentation.
-
-
-
