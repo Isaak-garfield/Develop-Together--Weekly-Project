@@ -33,3 +33,10 @@ screenshots of our finished website will be added here.
 Individlual Contributions
 
 Each team member will explain their own contibution and code during the presentation.
+
+## Website Screenshots
+
+![Home Page](/Developer_Club/images/screenshot..png/home.png)
+![Job Page](/Developer_Club/images/screenshot..png/job.png)
+![Profile Page](/Developer_Club/images/screenshot..png/profile.png)
+![Rejection Page](/Developer_Club/images/screenshot..png/rejection.png)
