@@ -36,7 +36,7 @@ Each team member will explain their own contibution and code during the presenta
 
 ## Website Screenshots
 
-![Home Page](/Developer_Club/images/screenshot..png/home.png)
-![Job Page](/Developer_Club/images/screenshot..png/job.png)
-![Profile Page](/Developer_Club/images/screenshot..png/profile.png)
-![Rejection Page](/Developer_Club/images/screenshot..png/rejection.png)
+![Home Page](/docs/images/screenshot..png/home.png)
+![Job Page](/docs/images/screenshot..png/job.png)
+![Profile Page](/docs/images/screenshot..png/profile.png)
+![Rejection Page](/docs/images/screenshot..png/rejection.png)
